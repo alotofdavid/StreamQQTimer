@@ -1,0 +1,23 @@
+{
+  "name": "streamqq-timer",
+  "version": "1.0.0",
+  "description": "QQtimer mod for OBS",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/hayscubing/StreamQQTimer",
+  "keywords": [
+    "Electron",
+    "qqtimer",
+    "cubing",
+    "cube",
+    "stream",
+    "timer"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "~1.8.2"
+  }
+}
